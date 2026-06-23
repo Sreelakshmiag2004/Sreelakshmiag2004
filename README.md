@@ -121,14 +121,14 @@ Crafting real-world solutions with code, creativity, and innovation.
 
 ---
 
-## 🎨 Mobile UI/UX Designer Intern  
-### Vulture Lines Tech Management Pvt Ltd
+## 🤖 AI Intern  
+### Infosys Springboard
 
-**June 2025 - July 2025**
+**June 2026 - Present**
 
-- Designed healthcare application interfaces.
-- Created user-focused UI/UX screens using Figma.
-- Improved user engagement through intuitive designs.
+- Currently working as an AI Intern through Infosys Springboard.
+- Project assignment is yet to be allocated.
+- Will be working on AI-based development tasks following Agile methodology.
 
 ---
 
