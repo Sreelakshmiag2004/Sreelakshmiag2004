@@ -128,13 +128,29 @@ Led and organized multiple events as an active member and key contributor of the
 
 ## 📊 GitHub Stats
 
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sreelakshmiag2004&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreelakshmiag2004&layout=compact&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=Sreelakshmiag2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Sreelakshmiag2004?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Sreelakshmiag2004?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sreelakshmiag2004&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sreelakshmiag2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreelakshmiag2004&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sreelakshmiag2004&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sreelakshmiag2004&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreelakshmiag2004&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
