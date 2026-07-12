@@ -128,23 +128,22 @@ Led and organized multiple events as an active member and key contributor of the
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=Sreelakshmiag2004&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Sreelakshmiag2004&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
   />
   <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreelakshmiag2004&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreelakshmiag2004&layout=compact&theme=tokyonight"
-    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Sreelakshmiag2004&theme=tokyonight"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=Sreelakshmiag2004&theme=tokyonight&hide_border=true"
   />
 </p>
 
